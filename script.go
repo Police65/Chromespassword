@@ -49,7 +49,6 @@ func main() {
 
 // Función para descifrar la contraseña encriptada de Chrome
 func decryptChromePassword(encryptedPassword string) string {
-	// Implementa aquí la lógica para descifrar la contraseña encriptada
-	// Este proceso varía según la versión y configuración del navegador
+
 	return ""
 }
